@@ -1,0 +1,25 @@
+.media-object {
+    max-width: 100px;
+    border-radius: 25%;
+    margin-right: 10px
+}
+
+.alert {
+    margin-top: 100px;
+}
+
+.first-header {
+    margin-top: 80px;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.creditsicon {
+    max-width: 18px
+}
+
+.modal {
+    margin-top: 80px;
+}
